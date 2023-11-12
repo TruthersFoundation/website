@@ -59,7 +59,10 @@ section {
   flex-direction: column;
 }
 
-.article-box { padding: 1rem; }
+.article-box {
+  width: 90%;
+  padding: 1rem;
+}
 
 .intro-text {
   text-align: justify;
