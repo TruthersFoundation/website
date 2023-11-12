@@ -17,6 +17,10 @@ body {
   list-style: none;
 }
 
+main {
+  max-width: 1920px;
+}
+
 .title,
 .heading {
   font-family: "Righteous";
