@@ -59,20 +59,16 @@ section {
   flex-direction: column;
 }
 
-.article-box {
+.article-box,
+.drive-box {
   width: 90%;
   padding: 1rem;
+  margin: auto;
 }
 
 .intro-text {
   text-align: justify;
   text-justify: inter-word;
-}
-
-.drive-box {
-  width: 90%;
-  height: 300px;
-  margin: auto;
 }
 
 .drive {
